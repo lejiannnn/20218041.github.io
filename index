@@ -1,0 +1,26 @@
+<html><head>
+<title> 20218041 </title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+ <body><div align="center">
+      <h1>Welcome to DuJiaying's Homepage!</h1>
+       <div class="mydiv"><div>
+      <img width="150" height="210" src="a.jpg">
+      <div>
+      <div class="sameline">
+      <span style="font-size:30px">name: </span> 
+      <span style="font-size:20px">Du Jiaying </span> 
+    
+            <br>
+      <div class="sameline">
+      <span style="font-size:30px">nember: </span> 
+      <span style="font-size:20px">20218041 </span> 
+      <div>
+      <div class="sameline">
+      <span style="font-size:30px">interest: </span> 
+      <span style="font-size:20px">art </span> 
+            <div>
+      <img width="450" height="630" src="b.jpg">
+
+ 
+</div></div></div></div></div></div></div></div></div></body></html>
