@@ -1,0 +1,15 @@
+<html>
+
+<body>
+
+<p>
+<img src ="cat1.jpg" align ="left">
+A paragraph with an image. The align attribute of the image is set to "left". The image floats to the left of the text.
+</p>
+
+<p>
+<img src ="cat2.jpg" align ="right">
+A paragraph with an image. The align attribute of the image is set to "left". The image floats to the left of the text.
+</p>
+</body>
+</html>
